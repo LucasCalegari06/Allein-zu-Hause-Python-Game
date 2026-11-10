@@ -47,9 +47,25 @@ Du wachst vollkommen allein in deinem Zimmer auf. Eine unbarmherzige Apokalypse 
 - **Level-Design & Maps:** Tiled Map Editor (`.tmj` JSON-Format)
 - **Mathematik & Geometrie:** Standardbibliotheken `math`, `random`
 
+## Steuerung
+
+- **Pfeiltasten (↑, ↓, ←, →):** Spielerbewegung
+- **R:** Neustart des Levels (nach Entdeckung oder nach Abschluss)
+
 ## Installation & Ausführung
 
 ### 1. Repository klonen
 ```bash
 git clone [https://github.com/LucasCalegari06/allein-zu-hause.git](https://github.com/LucasCalegari06/allein-zu-hause.git)
 cd allein-zu-hause
+```
+
+### 2. Abhängigkeiten installieren
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Spiel starten
+```bash
+python main.py
+```
