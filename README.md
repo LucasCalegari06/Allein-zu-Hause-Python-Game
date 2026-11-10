@@ -56,7 +56,8 @@ Du wachst vollkommen allein in deinem Zimmer auf. Eine unbarmherzige Apokalypse 
 
 ### 1. Repository klonen
 ```bash
-git clone https://github.com/LucasCalegari06/allein-zu-hause.git
+git clone https://github.com/LucasCalegari06/Allein-zu-Hause-Python-Game.git
+cd Allein-zu-Hause-Python-Game
 ```
 
 ### 2. Abhängigkeiten installieren
