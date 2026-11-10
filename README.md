@@ -56,8 +56,7 @@ Du wachst vollkommen allein in deinem Zimmer auf. Eine unbarmherzige Apokalypse 
 
 ### 1. Repository klonen
 ```bash
-git clone [https://github.com/LucasCalegari06/allein-zu-hause.git](https://github.com/LucasCalegari06/allein-zu-hause.git)
-cd allein-zu-hause
+git clone https://github.com/LucasCalegari06/allein-zu-hause.git
 ```
 
 ### 2. Abhängigkeiten installieren
